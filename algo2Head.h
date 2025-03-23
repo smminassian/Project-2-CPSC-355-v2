@@ -4,15 +4,17 @@
 #include <iostream>
 #include <map>
 
+
+
 class VibeCheck{
     public:
         map<int, int> myHand;
-        void countOccurences(map<int, int>myHand);
         VibeCheck();
-        void groupIt(int index, int GroupSize);
+        void groupIt(map<int, int> myHand, int GroupSize);
         void printMyHand();
 
 };
+
 
 
 #endif
