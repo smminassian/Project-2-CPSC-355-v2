@@ -10,6 +10,19 @@ and then type ./VibeCheckProgram
 Make sure you have all my files downloaded
 
 
+Example Input: 
+
+"What size do you want array to be?"
+Type 9
+"Enter numbers into the array: "
+type these numbers in 1, 2, 3, 6, 2, 3, 4, 7, 8
+groupSize = 3
+Now enter the group size that u want: "
+Type 3
+
+
+
+
 #References:
 https://www.geeksforgeeks.org/map-count-function-in-c-stl/
 https://www.geeksforgeeks.org/traversing-a-map-or-unordered_map-in-cpp-stl/
